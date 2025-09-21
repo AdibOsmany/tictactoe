@@ -16,7 +16,7 @@ A Python TicTacToe with:
 
 - **LAN discovery**
   - Server replies to UDP broadcasts (default **9998**).
-  - Clients scan the LAN and show join buttons (host name is bolded).
+  - Clients can scan the local network and display all available games with click-to-join buttons
 
 - **Security / Access**
   - **PIN required** to join a hosted game.
